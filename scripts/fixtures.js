@@ -29,18 +29,3 @@ var albumMarconi = {
          { title: 'Wrong phone number', duration: '2:15'}
      ]
  };
-
-var albumGomez = {
-    title: 'Revival',
-    artist: 'Selena Gomez',
-    label: 'Interscope Records',
-    year: '2015',
-    albumArtUrl: 'assets/images/album_covers/22.png',
-    songs: [
-        { title: 'Revival', duration: '4:06' },
-        { title: 'Kill Em with Kindness', duration: '3:37' },
-        { title: 'Hands To Myself', duration: '3:20'},
-        { title: 'Same Old Love', duration: '3:49' },
-        { title: 'Sober', duration: '3:14'}
-    ]
-};
